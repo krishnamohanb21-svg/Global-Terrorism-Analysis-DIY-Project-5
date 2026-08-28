@@ -1,1 +1,8 @@
 # Global-Terrorism-Analysis-DIY-Project-5
+The Global Terrorism Index (GTI) is a comprehensive metric that assesses the impact of terrorism across 163 countries, representing 99.7% of the world's population. Compiled by the Institute for Economics & Peace (IEP) utilizing data from Terrorism Tracker and other sources, the GTI assigns each country a score between 0 and 10. A score of 0 indicates no impact from terrorism, while a score of 10 denotes the highest measurable impact. Given the extensive resources that governments worldwide allocate to counter-terrorism efforts, there is a crucial need to analyze and aggregate the available GTI data to gain a deeper understanding of terrorism's various facts. 
+This analysis aims to:
+1. Identify Trends Over Time: Examine how terrorism impacts have evolved over the years, identifying patterns or shifts in terrorist activities.
+2. Regional Distribution: Analyze the geographical distribution of terrorism to pinpoint regions most affected and explore regional trends.
+3. Types of Terrorist Attacks: Determine the most common types of terrorist attacks and assess their frequency and impact.
+4. Contributing Factors: Investigate the factors that contribute to terrorism, such as socio-economic conditions, political instability, and international relations. 
+By systematically analyzing the GTI data, this project aims to provide insights that will help in formulating more effective counter-terrorism policies. The goal is to leverage the GTI as a valuable tool for understanding the global threat of terrorism and informing policy responses, ultimately contributing to a reduction in terrorist activities and enhancing global security.
